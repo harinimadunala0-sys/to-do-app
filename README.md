@@ -41,6 +41,7 @@ This project is a simple and user-friendly To-Do List application built using Py
 3. Run the following command:
 
 ```
+python todo.py
 ```
 
 ---
